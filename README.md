@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hassan-rana-6119582b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hassan-rana-6119582b0" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=100009146536393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100009146536393" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hassan-rana-6119582b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-rana-6119582b0/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009146536393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009146536393" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
